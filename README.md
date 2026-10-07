@@ -1,4 +1,4 @@
-#Serverless-service health checker
+# Serverless-service health checker
 
 ## Brief
 This is a serverless health monitoring system built with AWS.
